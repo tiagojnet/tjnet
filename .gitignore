@@ -1,3 +1,4 @@
 /.quarto/
 /_site
-.upload
+upload
+.DS_Store
