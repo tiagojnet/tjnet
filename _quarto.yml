@@ -2,13 +2,31 @@ project:
   type: website
 
 website:
+  announcement: 
+    icon: exclamation-triangle
+    dismissable: true
+    content: "**Alert** - this is some information that you should pay attention to"
+    type: primary
+    position: below-navbar 
   title: "TJ"
+  description: The personal website of Tiago Jacinto
+  site-url: https://tiagojacinto.net
   navbar:
     background: dark
+    search: false
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: links/index.qmd
+        text: Links
+      - href: now/index.qmd
+        text: Now
+    right: 
+      - icon: mastodon
+        href: https://mastodon.social/@tiagojnet
+      - icon: instagram
+        href: https://www.instagram.com/tiagojnet/  
 
 format:
   html:

@@ -1,0 +1,14 @@
+- name: Linear Mouse
+  link: https://linearmouse.app
+  comment: A custom value
+  date: 2025-04-08
+- name: Second Item
+  link: https://www.rstudio.org
+  comment: A second custom value
+  date: 2023-10-02
+  categories: [category1, category2]
+- name: Third Item
+  link: https://www.rstudio.org
+  comment: A second custom value
+  date: 2025-05-04
+  categories: [category3]
