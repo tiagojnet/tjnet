@@ -4,8 +4,8 @@ project:
 website:
   announcement: 
     icon: exclamation-triangle
-    dismissable: true
-    content: "**Alert** - this is some information that you should pay attention to"
+    dismissable: false
+    content: "**Alert** - This website is under construction. Please be aware."
     type: primary
     position: below-navbar 
   title: "TJ"
@@ -17,11 +17,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: links/index.qmd
-        text: Links
-      - href: now/index.qmd
-        text: Now
     right: 
       - icon: mastodon
         href: https://mastodon.social/@tiagojnet
