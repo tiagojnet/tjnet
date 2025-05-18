@@ -1,6 +1,8 @@
 project:
   type: website
 
+date-format: iso
+
 website:
   announcement: 
     icon: exclamation-triangle
@@ -25,6 +27,7 @@ website:
 
 format:
   html:
+    include-in-header: includes/_head.html
     theme:
       - litera
       - brand
