@@ -2,9 +2,11 @@
 title: "Hello, I'm Tiago"
 ---
 
-Human, dad, husband. EU-made.  
-Lecturer and researcher by day, Minecraft builder by night.  
-Iron Maiden always.  
-Building a better future for my kids.  
+Human, dad, husband. EU-made.
+Lecturer and researcher by day, Minecraft builder by night.
+Iron Maiden always.
+Building a better future for my kids.
 
-Get in [touch](mailto:tiago@tiagojacinto.net).  
+Get in [touch](mailto:tiago@tiagojacinto.net).
+
+This is a link the the [About](/about) page.

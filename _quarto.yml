@@ -1,15 +1,18 @@
 project:
   type: website
+  preview:
+    port: 4200
+    browser: true
 
 date-format: iso
 
 website:
-  announcement: 
+  announcement:
     icon: exclamation-triangle
     dismissable: false
     content: "**Alert** - This website is under construction. Please be aware."
     type: primary
-    position: below-navbar 
+    position: below-navbar
   title: "TJ"
   description: The personal website of Tiago Jacinto
   site-url: https://tiagojacinto.net
@@ -19,11 +22,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-    right: 
+    right:
       - icon: mastodon
         href: https://mastodon.social/@tiagojnet
       - icon: instagram
-        href: https://www.instagram.com/tiagojnet  
+        href: https://www.instagram.com/tiagojnet
 
 format:
   html:

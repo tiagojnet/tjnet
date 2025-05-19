@@ -1,12 +1,13 @@
 ---
-title: "Blog"
+title: "Links"
 listing:
+  template: links.ejs
   feed: true
   sort-ui: true
   filter-ui: true
   page-size: 10
   categories: true
   contents:
-    - posts/
+    - links.yml
 ---
-a personal blog
+A list of links
