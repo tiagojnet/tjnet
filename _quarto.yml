@@ -23,16 +23,13 @@ website:
       - icon: mastodon
         href: https://mastodon.social/@tiagojnet
       - icon: instagram
-        href: https://www.instagram.com/tiagojnet/  
+        href: https://www.instagram.com/tiagojnet  
 
 format:
   html:
     include-in-header: includes/_head.html
     theme:
-      - litera
+      - zephyr
       - brand
     css: styles.css
     toc: true
-
-
-
