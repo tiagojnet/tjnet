@@ -1,13 +1,13 @@
 ---
 title: "Links"
 listing:
-  template: links.ejs
+  template: links/links.ejs
   feed: true
   sort-ui: true
   filter-ui: true
   page-size: 10
   categories: true
   contents:
-    - links.yml
+    - links/links.yml
 ---
 A list of links
